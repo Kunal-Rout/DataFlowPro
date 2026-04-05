@@ -35,7 +35,7 @@ A modular, production-grade data analysis web app built with Streamlit. Upload a
 ```
 dataflow-pro/
 │
-├── streamlit_app.py              ← Entry point (routing only, ~40 lines)
+├── app.py              ← Entry point (routing only, ~40 lines)
 ├── requirements.txt
 ├── .python-version
 ├── .gitignore
