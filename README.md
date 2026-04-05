@@ -4,7 +4,7 @@
 
 A modular, production-grade data analysis web app built with Streamlit. Upload any CSV and instantly get interactive visualizations, statistical summaries, correlation analysis, and data cleaning — all without writing a single line of code.
 
-🌐 **Live App**: [dataflow-pro-analytics.streamlit.app](https://dataflow-pro-analytics.streamlit.app)
+🌐 **Live App**: [dataflow-pro.streamlit.app](https://dataflow-pro.streamlit.app/)
 
 ---
 
