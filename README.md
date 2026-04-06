@@ -91,7 +91,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # 4. Run the app
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
 
 Open your browser at `http://localhost:8501`
